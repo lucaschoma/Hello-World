@@ -1,4 +1,6 @@
 # hello-world
 My first repository
 
-I am a junior programmer. I love coding and developing apps using android.
+I am an Entry-level Data Analyst and  Programmer. I love coding and developing apps.
+
+This is my first data analytics project. i am still familiarizing myself with the Github resources as well.
